@@ -48,4 +48,7 @@
 
     <!-- Value in SharedPreferences for green color option -->
     <string name="pref_color_green_value" translatable="false">green</string>
+    <string name="pref_scale_multiplier_key">scale_multiplier</string>
+    <string name="pref_scale_multiplier_default">1</string>
+    <string name="pref_scale_multiplier_title">Scale Multiplier</string>
 </resources>
